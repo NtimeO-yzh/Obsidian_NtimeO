@@ -1,0 +1,1 @@
+HW2: Digital Design Using VHDL ： 6.16，6.45，7.6，8.14，9.14（编程题使用verilog和VHDL均可，在作业中贴上仿真波形）

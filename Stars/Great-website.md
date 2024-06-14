@@ -1,0 +1,6 @@
+[table-to-markdown](https://tableconvert.com/)
+[mac自定义icon]([Over 5000+ free icons for macOS Monterey, Big Sur & iOS - massive app icon pack (macosicons.com)](https://macosicons.com/#/))
+[免费翻墙]([Free web proxy - browse fast & anonymously (proxyium.com)](https://proxyium.com/))
+[zlibrary](https://singlelogin.re/)
+[费曼物理学讲座]([The Feynman Lectures on Physics (caltech.edu)](https://www.feynmanlectures.caltech.edu/))
+[鼠标样式]([Cyanity Cursors (rw-designer.com)](http://www.rw-designer.com/cursor-set/cyanity))

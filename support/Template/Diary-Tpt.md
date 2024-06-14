@@ -1,0 +1,42 @@
+## 流水账
+起床时间:
+是否吃早饭:
+是否午睡:
+午睡时间:
+是否js:1
+我和lxy的事: 
+1. 
+2. 
+3. 
+
+## Idea
+- 
+- 
+- 
+- 
+
+## Todo
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+## Deadline
+### today
+```tasks
+not done
+due on today
+hide due date
+```
+### tomorrow
+```tasks
+not done
+due on tomorrow
+hide due date
+```
+### 5 days
+```tasks
+not done
+due after tomorrow
+due before in 5 days
+```
